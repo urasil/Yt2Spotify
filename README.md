@@ -1,6 +1,6 @@
 # Yt2Spotify
 
-This software does not use the Spotify API to put mp3's into a Spotify library. It downloads a video from YouTube, converts it into an MP3, and puts it under the local Music directory under your user. The reason behind this software is the song "Bullet from a gun" by Skepta. Although I love the song, I hate the lyrics. On YouTube, a remix, "Just Ur Turn" exists, which I much prefer. Hence this project.
+This software does not use the Spotify API to put mp3's into a Spotify library. It downloads a video from YouTube, converts it into an MP3, and puts it under the local Music directory under your user. The reason behind this software is the song "Bullet from a gun" by Skepta. Although I love the song, I hate the instrumental. On YouTube, a remix, "Just Ur Turn" exists, which I much prefer. Hence this project.
 
 ## How to use it?
 
